@@ -5,3 +5,12 @@ body{
 h1{
     color: #03fcf4;
 }
+
+.container{
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
+
+.jumbotron{
+    background-color: white;
+}

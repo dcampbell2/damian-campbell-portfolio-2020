@@ -2,12 +2,9 @@ body{
     background-image: url("./Images/bodybackground.png");
 }
 
-p{
-    float: left;
-}
-
-h1{
+.container h1{
     color: #03fcf4;
+    font-family: sans-serif;
 }
 
 .container{

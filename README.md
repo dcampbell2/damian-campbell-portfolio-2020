@@ -14,6 +14,8 @@ If you would like to download this you can perform "git clone git@github.com:dca
 
 Click around the webpage and get to know me! Form submissions don't quite work just yet on the contact page still building out functionailty for you there to send me a message that I can reply to.
 
+![./assets/Images/aboutpage]
+
 
 
 ## Credits

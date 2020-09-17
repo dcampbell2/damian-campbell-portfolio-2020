@@ -2,18 +2,18 @@ body{
     background-image: url("./Images/bodybackground.png");
 }
 
-.navbar-brand{
-    color: white;
-    background-color: #03fcf4;
-}
-
 p{
     overflow-wrap: inherit;
 }
 
 .container h1{
-    color: #03fcf4;
+    color: #009999;
     font-family: sans-serif;
+}
+
+.navbar-brand{
+    color: white;
+    background-color: #009999;
 }
 
 .container{

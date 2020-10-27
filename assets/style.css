@@ -1,16 +1,20 @@
 body {
-  background-image: url("./Images/bodybackground.png");
+  background-image: url("./Images/newbodybackground.jpg");
 }
 
 h1 {
-  color: #009999;
+  color: #2272d4;
   font-family: 'Times New Roman', Times, serif;
 }
 
 .navbar-brand {
   color: white;
-  background-color: #009999;
+  background-color: #bef8fa;
   font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar-brand:hover{
+  background-color: white;
 }
 
 .container {
@@ -26,6 +30,10 @@ h1 {
 img {
   position: relative;
   float: left;
+}
+
+.img-fluid{
+  height: 200px;
 }
 
 .footer {
